@@ -22,9 +22,5 @@ local3
 
 git 2
 
-<<<<<<< HEAD
 local3
-=======
-git 3
->>>>>>> main
 
