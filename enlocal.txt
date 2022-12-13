@@ -29,6 +29,10 @@ git 3
 
 local wefdsañllñkdaslñfklñk
 git sdflkjdsaflkdsjafkljdslfkj
+<<<<<<< HEAD
 
 
 local wefdsañllñkdaslñfklñk2
+=======
+git sdllkfjsdalfkjdkslj3
+>>>>>>> main
