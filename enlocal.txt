@@ -2,4 +2,8 @@ local 1
 local 2
 git 1
 local 3
+<<<<<<< HEAD
 local 4
+=======
+git 2
+>>>>>>> main
