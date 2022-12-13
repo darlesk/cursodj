@@ -24,3 +24,4 @@ git 2
 
 local3
 
+git 3
