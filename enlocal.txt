@@ -16,4 +16,9 @@ cambio git 1
 
 
 cambio local 1
+<<<<<<< HEAD
 cambio local 2
+=======
+
+cambio git 2
+>>>>>>> main
