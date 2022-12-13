@@ -18,4 +18,8 @@ cambio git 1
 cambio local 1
 cambio local 2
 
+<<<<<<< HEAD
 local3
+=======
+git2
+>>>>>>> main
