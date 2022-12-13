@@ -12,4 +12,7 @@ otro cambio desde github 2
 
 Se agrego un cambio en maquina local dell
 
+cambio git 1
+
+
 cambio local 1
